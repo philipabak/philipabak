@@ -12,9 +12,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=1000&center=true&width=800&height=40&lines=%F0%9F%8C%9E+%F0%9D%93%95%F0%9D%93%BE%F0%9D%93%B5%F0%9D%93%B5-%F0%9D%93%A2%F0%9D%93%BD%F0%9D%93%AA%F0%9D%93%AC%F0%9D%93%B4+%F0%9D%93%93%F0%9D%93%AE%F0%9D%93%BF%F0%9D%93%AE%F0%9D%93%B5%F0%9D%93%B8%F0%9D%93%B9%F0%9D%93%AE%F0%9D%93%BB+%F0%9F%8C%9E%3B%F0%9F%8C%9E+%F0%9D%93%95%F0%9D%93%BB%F0%9D%93%B8%F0%9D%93%B7%F0%9D%93%BD-%F0%9D%93%94%F0%9D%93%B7%F0%9D%93%AD+%F0%9D%93%93%F0%9D%93%AE%F0%9D%93%BF%F0%9D%93%AE%F0%9D%93%B5%F0%9D%93%B8%F0%9D%93%B9%F0%9D%93%AE%F0%9D%93%BB+%F0%9F%8C%9E%3B%F0%9F%8C%9E+%F0%9D%93%AB%F0%9D%93%AA%F0%9D%93%AC%F0%9D%93%B4-%F0%9D%93%AE%F0%9D%93%B7%F0%9D%93%AD+%F0%9D%93%AD%F0%9D%93%AE%F0%9D%93%BF%F0%9D%93%AE%F0%9D%93%B5%F0%9D%93%B8%F0%9D%93%B9%F0%9D%93%AE%F0%9D%93%BB%F0%9F%8C%9E)](https://git.io/typing-svg)
 
-<div align='right'>
+<!-- <div align='right'>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTRhZWE5NmFlZDk3MGMwOGNkZDViZmNlZDFiNmIwOTI0MDg3NjRmYiZjdD1n/t9Gx9k9QSMvb32PyrQ/giphy.gif" width="400" align="right"/> 
-</div>
+</div> -->
 
 &nbsp;&nbsp;<h2>🔥⚡ Full-Stack Developer</h2>
 &nbsp;&nbsp;&nbsp;⭐ In-depth knowledge of JavaScript/jQuery, TypeScript/ Node, and HTML/CSS. <br>
