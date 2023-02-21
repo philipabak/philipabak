@@ -12,12 +12,12 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=1000&center=true&width=800&height=40&lines=%F0%9D%93%95%F0%9D%93%BE%F0%9D%93%B5%F0%9D%93%B5-%F0%9D%93%A2%F0%9D%93%BD%F0%9D%93%AA%F0%9D%93%AC%F0%9D%93%B4+%F0%9D%93%93%F0%9D%93%AE%F0%9D%93%BF%F0%9D%93%AE%F0%9D%93%B5%F0%9D%93%B8%F0%9D%93%B9%F0%9D%93%AE%F0%9D%93%BB%3B%F0%9D%93%95%F0%9D%93%BB%F0%9D%93%B8%F0%9D%93%B7%F0%9D%93%BD-%F0%9D%93%94%F0%9D%93%B7%F0%9D%93%AD+%F0%9D%93%93%F0%9D%93%AE%F0%9D%93%BF%F0%9D%93%AE%F0%9D%93%B5%F0%9D%93%B8%F0%9D%93%B9%F0%9D%93%AE%F0%9D%93%BB%3B%F0%9D%93%AB%F0%9D%93%AA%F0%9D%93%AC%F0%9D%93%B4-%F0%9D%93%AE%F0%9D%93%B7%F0%9D%93%AD+%F0%9D%93%AD%F0%9D%93%AE%F0%9D%93%BF%F0%9D%93%AE%F0%9D%93%B5%F0%9D%93%B8%F0%9D%93%B9%F0%9D%93%AE%F0%9D%93%BB)](https://git.io/typing-svg)
 &nbsp;&nbsp;<h2>🔥⚡ Full-Stack Developer</h2>
-<h3>&nbsp;&nbsp;&nbsp;⭐ In-depth knowledge of JavaScript/jQuery, TypeScript/ Node, and HTML/CSS.</h3>
-<h3>&nbsp;&nbsp;&nbsp;⭐ Extensive experience in implementing components using React life-cycle architecture, as well as using React-Redux to handle real-time data and Redux-Thunk for API calls and async operations.</h3>
-<h3>&nbsp;&nbsp;&nbsp;⭐ Highly proficient in Ruby on Rails and PHP/Laravel with 10+ years of experience.</h3>
-<h3>&nbsp;&nbsp;&nbsp;⭐ Enhance backend systems to scale as request, optimized SQL queries and data volumes have grown larger and deploy beta versions for testing, work closely with QAs and deploy final version to production.</h3>
-<h3>&nbsp;&nbsp;&nbsp;⭐ Familiarity with Unix-based server setup (the LAMP stack) for website deployment (AWS, Digital Ocean, Heroku) and database functionality, as well as design and development of APIs.</h3>
-<h3>&nbsp;&nbsp;&nbsp;⭐ Mastered JavaScript/Web3 and Python(Solidity) to build smart contracts, consensus algorithms, and data structures and NFTs. •Hardworking collaborator with a track record of superior results.</h3>
+<h4>&nbsp;&nbsp;&nbsp;⭐ In-depth knowledge of JavaScript/jQuery, TypeScript/ Node, and HTML/CSS.</h4>
+<h4>&nbsp;&nbsp;&nbsp;⭐ Extensive experience in implementing components using React life-cycle architecture, as well as using React-Redux to handle real-time data and Redux-Thunk for API calls and async operations.</h4>
+<h4>&nbsp;&nbsp;&nbsp;⭐ Highly proficient in Ruby on Rails and PHP/Laravel with 10+ years of experience.</h4>
+<h4>&nbsp;&nbsp;&nbsp;⭐ Enhance backend systems to scale as request, optimized SQL queries and data volumes have grown larger and deploy beta versions for testing, work closely with QAs and deploy final version to production.</h4>
+<h4>&nbsp;&nbsp;&nbsp;⭐ Familiarity with Unix-based server setup (the LAMP stack) for website deployment (AWS, Digital Ocean, Heroku) and database functionality, as well as design and development of APIs.</h4>
+<h4>&nbsp;&nbsp;&nbsp;⭐ Mastered JavaScript/Web3 and Python(Solidity) to build smart contracts, consensus algorithms, and data structures and NFTs. •Hardworking collaborator with a track record of superior results.</h4>
 &nbsp;&nbsp;<h2>🤗 My State</h2>
 <div align="left">
   
@@ -28,8 +28,8 @@
 -->  
 </div>
 &nbsp;&nbsp;<h2>🙋‍♂️ contact me</h2> 
-<h3>&nbsp;&nbsp;&nbsp;💙 Email:    philipapbak@gmail.com</h3>
-<h3>&nbsp;&nbsp;&nbsp;💙 Skype:    live:philipapbak</h3>
-<h3>&nbsp;&nbsp;&nbsp;💙 Telegram: https://t.me/philipbak77</h3>
-<h3>&nbsp;&nbsp;&nbsp;💙 Discord:  philipbak77#8713</h3>
+<h4>&nbsp;&nbsp;&nbsp;💙 Email:    philipapbak@gmail.com</h4>
+<h4>&nbsp;&nbsp;&nbsp;💙 Skype:    live:philipapbak</h4>
+<h4>&nbsp;&nbsp;&nbsp;💙 Telegram: https://t.me/philipbak77</h4>
+<h4>&nbsp;&nbsp;&nbsp;💙 Discord:  philipbak77#8713</h4>
 
