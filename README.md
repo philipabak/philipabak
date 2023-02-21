@@ -14,8 +14,8 @@
 &nbsp;&nbsp;<h2>🔥⚡ Full-Stack Developer</h2>
 <h4>&nbsp;&nbsp;&nbsp;⭐ In-depth knowledge of JavaScript/jQuery, TypeScript/ Node, and HTML/CSS.</h4>
 <h4>&nbsp;&nbsp;&nbsp;⭐ Extensive experience in implementing components using React life-cycle architecture, as well as using React-Redux to handle real-time data and Redux-Thunk for API calls and async operations.</h4>
-<p>&nbsp;&nbsp;&nbsp;⭐ Highly proficient in Ruby on Rails and PHP/Laravel with 10+ years of experience.</p>
-<p>&nbsp;&nbsp;&nbsp;⭐ Enhance backend systems to scale as request, optimized SQL queries and data volumes have grown larger and deploy beta versions for testing, work closely with QAs and deploy final version to production.</p>
+<h4>&nbsp;&nbsp;&nbsp;⭐ Highly proficient in Ruby on Rails and PHP/Laravel with 10+ years of experience.</h4>
+<h4>&nbsp;&nbsp;&nbsp;⭐ Enhance backend systems to scale as request, optimized SQL queries and data volumes have grown larger and deploy beta versions for testing, work closely with QAs and deploy final version to production.</h4>
 <h4>&nbsp;&nbsp;&nbsp;⭐ Familiarity with Unix-based server setup (the LAMP stack) for website deployment (AWS, Digital Ocean, Heroku) and database functionality, as well as design and development of APIs.</h4>
 <h4>&nbsp;&nbsp;&nbsp;⭐ Mastered JavaScript/Web3 and Python(Solidity) to build smart contracts, consensus algorithms, and data structures and NFTs.</h4>
 &nbsp;&nbsp;<h2>🤗 My State</h2>
